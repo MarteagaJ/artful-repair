@@ -1,6 +1,6 @@
 # Portfolio one page template
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
+Flat and responsive website template, designed and coded by [Matthew Arteaga](https://github.com/MarteagaJ).
 
 Demo: [http://MarteagaJ.github.io/artful-repair](http://MarteagaJ.github.io/artful-repair/)
 
